@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(227, 255, 247);
+    text-align: center;
+}
+.resultReset {
+    display: flex;
+}
+.score {
+    display: flex;
+    justify-content: center;
+    gap: 50px   ;
+}
+.scorePlayer , .scoreComputer{
+    
+    justify-content: center;
+}
